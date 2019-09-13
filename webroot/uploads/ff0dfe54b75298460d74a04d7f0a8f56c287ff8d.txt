@@ -1,0 +1,2 @@
+----for add plugin migration i cake php
+-----composer require cakephp/migrations "@stable"

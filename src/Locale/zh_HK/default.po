@@ -1,0 +1,645 @@
+msgid "Languages"
+msgstr "语言"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Username"
+msgstr "用户名字"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Reset Password"
+msgstr "更改密码"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Reject"
+msgstr "不接受"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Goods Analysis"
+msgstr "貨品分析"
+
+msgid "Checking"
+msgstr "核對"
+
+msgid "Major"
+msgstr "嚴重程度"
+
+msgid "Minor"
+msgstr "輕微程度"
+
+msgid "Remark"
+msgstr "備註"
+
+msgid "P.O Qty"
+msgstr "訂單數量"
+
+msgid "Major AQL"
+msgstr "嚴重程度AQL值"
+
+msgid "Minor AQL"
+msgstr "輕微程度AQL值"
+
+msgid "Style"
+msgstr "款式"
+
+msgid "Sample Size"
+msgstr "樣本数量"
+
+msgid "P.O"
+msgstr "采购单号"
+
+msgid "P.O No"
+msgstr "采购单号"
+
+msgid "Purchase Order"
+msgstr "采购订单"
+
+msgid "Order quantity"
+msgstr "订单数量"
+
+msgid "Please be patient waiting and upload image"
+msgstr "請耐心等待,我们正在上传您的图片"
+
+msgid "Select Inspection Report"
+msgstr "相关查货报告"
+
+msgid "Inspection Report"
+msgstr "查货报告"
+
+msgid "Inspected"
+msgstr "检查信息"
+
+msgid "Quality Inspected"
+msgstr "品質檢驗數量"
+
+msgid "Inspected Qty"
+msgstr "已檢驗數量"
+
+msgid "Inspector"
+msgstr "檢測員"
+
+msgid "Staff"
+msgstr "人事"
+
+msgid "Factory"
+msgstr "生产工厂"
+
+msgid "Action"
+msgstr "选项"
+
+msgid "Inspection Information"
+msgstr "查货信息"
+
+msgid "Actual quantity"
+msgstr "实际数量"
+
+msgid "Apparel"
+msgstr "款式"
+
+msgid "Ship date"
+msgstr "走货日期"
+
+msgid "Style number of client"
+msgstr "客人款号"
+
+msgid "Style Number"
+msgstr "款号"
+
+msgid "Rate of progress"
+msgstr "生产进度"
+
+msgid "Cutting"
+msgstr "裁床"
+
+msgid "Sewing"
+msgstr "缝制"
+
+msgid "Buttoning"
+msgstr "钉钮"
+
+msgid "Ironing"
+msgstr "烫衣"
+
+msgid "Packing"
+msgstr "包装"
+
+msgid "NEXT"
+msgstr "下一页"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Carton Audit"
+msgstr "开箱检查"
+
+msgid "Carton"
+msgstr "装箱"
+
+msgid "Carton Checked"
+msgstr "已查箱子"
+
+msgid "Total Carton"
+msgstr "装箱数量"
+
+msgid "Carton Audit Status"
+msgstr "开箱检查状态"
+
+msgid "Inspection"
+msgstr "查货"
+
+msgid "Inspection Status"
+msgstr "查货情况"
+
+msgid "Profile"
+msgstr "用户配置"
+
+msgid "Pass"
+msgstr "通过"
+
+msgid "Fail"
+msgstr "不通过"
+
+msgid "Ins Time"
+msgstr "查货时间"
+
+msgid "Ins Qty"
+msgstr "查货数量"
+
+msgid "Inspect Qty"
+msgstr "查货数量"
+
+msgid "Inspect P.O"
+msgstr "查货"
+
+msgid "Complete Report"
+msgstr "已完成"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Submitted"
+msgstr "已提交"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Total Defect"
+msgstr "缺陷衣物总数量"
+
+msgid "Factory style no"
+msgstr "工厂款号"
+msgid "Customer"
+msgstr "客户名称"
+
+msgid "Actual Inspection"
+msgstr "实际检查"
+
+msgid "Accept / Reject Point"
+msgstr "接受/不接受数量"
+
+msgid "Sample Code"
+msgstr "样版代码"
+
+msgid "Inspection Result"
+msgstr "检查结果"
+
+msgid "P.O Status"
+msgstr "采购单状态"
+
+msgid "Purchase Order Information"
+msgstr "采购单"
+
+msgid "Sample Item Status"
+msgstr "版衫状态"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Option"
+msgstr "选项"
+
+msgid "Carton Audit Form"
+msgstr "开箱检查登记表"
+
+msgid "Current Inspect Item"
+msgstr "现行检查项目"
+
+msgid "Reason"
+msgstr "理由"
+
+msgid "Defect Minor"
+msgstr "轻微疵点"
+
+msgid "Defect Major"
+msgstr "严重疵点"
+
+msgid "Carton Number"
+msgstr "箱号"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Add"
+msgstr "增加"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Buyer's Name"
+msgstr "客户名称"
+
+msgid "Add New Style"
+msgstr "增加新款式"
+
+msgid "#GMT In Ctn"
+msgstr "每箱成衣数量"
+
+msgid "Buyer"
+msgstr "客户"
+
+msgid "active"
+msgstr "活跃"
+
+msgid "Update"
+msgstr "更改"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Hold"
+msgstr "等待回复"
+
+msgid "Capture"
+msgstr "相机、上传图片"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Undo"
+msgstr "前滚"
+
+msgid "Redo"
+msgstr "回退"
+
+msgid "Rotate"
+msgstr "回转"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Image Capture & Upload"
+msgstr "上传图片"
+
+msgid "Save"
+msgstr "储存"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Information"
+msgstr "资讯"
+
+msgid "Processing"
+msgstr "进行中"
+
+msgid "Waiting Inspect"
+msgstr "等待检查"
+
+msgid "Item Defect"
+msgstr "疵点"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Buyer Inspection"
+msgstr "客户查货条件"
+
+msgid "Item Detail"
+msgstr "瑕疵点"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Inspected status"
+msgstr "查货结果"
+
+msgid "Inspection Quantity from Carton Number"
+msgstr "箱号查货量"
+
+msgid "INS Status"
+msgstr "提交结果"
+
+msgid "Change Language"
+msgstr "语言"
+
+msgid "Please select your reject reason."
+msgstr "请选择您找到的瑕疵点，谢谢！"
+
+msgid "Notice"
+msgstr "注意"
+msgid "Are you sure you want to Accept this carton audit ?"
+msgstr "你确定接受这一箱吗？"
+
+msgid "Are you sure you want to Reject this carton audit ?"
+msgstr "你确定不能接受这一箱吗？"
+
+msgid "Confirm"
+msgstr "确定"
+
+msgid "Number of Defect"
+msgstr "疵点的数量"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "G.W"
+msgstr "总重量"
+msgid "Gross Weight"
+msgstr "总重量"
+
+msgid "N.W"
+msgstr "净重"
+msgid "Net Weight"
+msgstr "净重"
+
+msgid "Add New Staff"
+msgstr "增加新同事"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "Role"
+msgstr "角色"
+msgid "Last Login"
+msgstr "最後一次登錄"
+msgid "Staff Management"
+msgstr "人事"
+
+msgid "Login Name"
+msgstr "用戶名字"
+
+msgid "Staff Name"
+msgstr "同事名字"
+
+msgid "Male"
+msgstr "男性"
+msgid "Female"
+msgstr "女性"
+
+msgid "Reset"
+msgstr "重置"
+msgid "Update"
+msgstr "更新"
+
+msgid "Resign"
+msgstr "離職"
+
+msgid "Active"
+msgstr "活躍"
+
+msgid "Are you sure?"
+msgstr "你確定嗎？"
+
+msgid "Update Now"
+msgstr "更新"
+
+msgid "Reset Password"
+msgstr "重置密碼"
+
+msgid "Back to Home"
+msgstr "返回主页"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "We detect your ip {0} from {1}"
+msgstr "我们检测您的 IP 是 {0} 并来自{1} "
+
+msgid "Current Module version is beta. Support Country Cambodia only. Thank you!"
+msgstr "您所在的区域使用暂时无法使用，请您耐心等候我们公布。谢谢合作"
+
+msgid "Saved Record"
+msgstr "保存記錄"
+
+msgid "Loading"
+msgstr "正在努力载入当中"
+
+msgid "Defect Report"
+msgstr "疵点报告"
+
+msgid "C.A Checked"
+msgstr "已经开箱检查"
+
+msgid "C.A Graph"
+msgstr "开箱检查视图"
+
+msgid "Total Major / Minor Defect"
+msgstr "总共计疵点"
+
+msgid "Reference"
+msgstr "参考指标"
+
+msgid "Available"
+msgstr "还没检查"
+
+msgid "Inpector By"
+msgstr "检查人员"
+
+msgid "Total Defect Type"
+msgstr "疵点种类"
+
+msgid "Defect Type"
+msgstr "疵点种类"
+
+msgid "Defect"
+msgstr "疵点"
+
+msgid "ctn"
+msgstr "箱"
+
+msgid "Carton"
+msgstr "箱"
+
+msgid "Point"
+msgstr "数量"
+
+msgid "Choose Report"
+msgstr "选择报告"
+
+msgid "No records available"
+msgstr "没有任何记录"
+
+msgid "Avg"
+msgstr "平均值"
+
+msgid "Appearance"
+msgstr "呈现"
+
+msgid "Measurement"
+msgstr "测量测度"
+
+msgid "Construction"
+msgstr "结构"
+
+msgid "Percentage"
+msgstr "巴仙率"
+
+msgid "Daily Reject Level"
+msgstr "当天开箱检查不能接受值"
+
+msgid "Daily Inspected Carton"
+msgstr "当天开箱检查"
+
+msgid "Overall Reject Level"
+msgstr "平均开箱检查不能接受值"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Create New Issue"
+msgstr "创建新的课题"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "none"
+msgstr "沒有"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Add More Field"
+msgstr "添加更多字段"
+
+msgid "Add More Informations"
+msgstr "添加更多信息"
+
+msgid "Title"
+msgstr "標題"
+
+msgid "English"
+msgstr "英語"
+
+msgid "List of Process"
+msgstr "進程清單"
+
+msgid "List of All Informations"
+msgstr "所有信息列表"
+
+msgid "Add Process"
+msgstr "添加流程"
+
+msgid "Export File Excel"
+msgstr "導出文件Excel"
+
+msgid "Date Create&Update"
+msgstr "日期創建和更新"
+
+msgid "SubSub Process"
+msgstr "子流程"
+
+msgid "Sub Process"
+msgstr "子過程"
+
+msgid "Main Process"
+msgstr "主要流程"
+
+msgid "No"
+msgstr "數字"
+
+msgid "Information of Process"
+msgstr "流程信息"
+
+msgid "next"
+msgstr "下一個"
+
+msgid "previous"
+msgstr "以前"
+
+msgid "first"
+msgstr "第一"
+
+msgid "Page"
+msgstr "頁"
+
+msgid "showing"
+msgstr "展示"
+
+msgid "record(s) out of"
+msgstr "記錄"
+
+msgid "total"
+msgstr "總"
+
+msgid "last"
+msgstr "持續"
+
+msgid "of "
+msgstr "的"
+
+msgid "Khmer"
+msgstr "高棉"
+
+msgid "Chinese"
+msgstr "中文"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Subjects"
+msgstr "主題"
+
+msgid "Staffs"
+msgstr "員工"
+
+msgid "Process"
+msgstr "處理"
+
+msgid "Chinese"
+msgstr "中文"
+
+msgid "Change Language"
+msgstr "中文"
+
+msgid "Input Tool"
+msgstr "輸入工具"
+
+msgid "Choose Staff"
+msgstr "選擇員工"
+
+msgid "Input Subject"
+msgstr "輸入主題"
+
+msgid "Change Language"
+msgstr "中文"

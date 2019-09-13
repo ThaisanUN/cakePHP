@@ -1,0 +1,77 @@
+msgid "Language"
+msgstr "ភាសា"
+
+msgid "Home"
+msgstr "ទំព័រដើម"
+
+msgid "Logout"
+msgstr "ចេញ"
+
+msgid "reset password"
+msgstr "កំណត់ពាក្យសម្ងាត់"
+
+msgid "profile"
+msgstr "ទម្រង់"
+
+msgid "Saved Record"
+msgstr "រក្សាទុកកំណត់ត្រា"
+
+msgid "New Defect Name"
+msgstr "ឈ្មោះជម្ងឺថ្មី"
+
+msgid "Defect Name"
+msgstr "ឈ្មោះខ្សោយ"
+
+msgid "Fabric Inspection"
+msgstr "អធិការកិច្ចក្រណាត់"
+
+msgid "Position"
+msgstr "ទីតាំង"
+
+msgid "List"
+msgstr "បញ្ចី"
+
+msgid "បញ្ចីនៃព័ត៌មានទាំងអស់"
+msgstr "List of All Informations"
+
+msgid "ព័ត៌មាននៃដំណើរការ"
+msgstr "Information of Process"
+
+msgid "ដំណើរការ"
+msgstr "Process"
+
+msgid "បន្ថែមដំណើរការ"
+msgstr "Add Process"
+
+msgid "អនុដំណើរការ"
+msgstr "Main Process"
+
+msgid "អនុអនុដំណើរការ"
+msgstr "Subsub Process"
+
+msgid "បញ្ចីនៃដំណើរ"
+msgstr "List Process"
+
+msgid "បន្ថែមព័ត៌មាន"
+msgstr "Add More Informations"
+
+msgid "ទាញយកបញ្ចីជាExcel"
+msgstr "Export File Excel"
+
+msgid "ដំណើរការចំបង"
+msgstr "Main Process"
+
+msgid "ថ្ងៃបង្កើតឬផ្លាស់ប្តូរ"
+msgstr "Date Create&Update"
+
+msgid "ផ្សេងទៀត"
+msgstr "Other"
+
+msgid "ភាសា"
+msgstr "Languages"
+
+msgid "សកម្មភាព"
+msgstr "Actions"
+
+msgid "បន្ថែម Field"
+msgstr "Add More Field"

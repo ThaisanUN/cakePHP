@@ -1,0 +1,232 @@
+msgid "Language"
+msgstr "ភាសា"
+
+msgid "Home"
+msgstr "ទំព័រដើម"
+
+msgid "Logout"
+msgstr "ចេញ"
+
+msgid "reset password"
+msgstr "កំណត់ពាក្យសម្ងាត់"
+
+msgid "profile"
+msgstr "ទម្រង់"
+
+msgid "Saved Record"
+msgstr "រក្សាទុកកំណត់ត្រា"
+
+msgid "New Defect Name"
+msgstr "ឈ្មោះជម្ងឺថ្មី"
+
+msgid "Defect Name"
+msgstr "ឈ្មោះខ្សោយ"
+
+msgid "Fabric Inspection"
+msgstr "អធិការកិច្ចក្រណាត់"
+
+msgid "Position"
+msgstr "ទីតាំង"
+
+msgid "List of All Informations"
+msgstr "បញ្ចីនៃព័ត៌មានទាំងអស់"
+
+msgid "Information of Process"
+msgstr "ព័ត៌មាននៃដំណើរការ"
+
+msgid "Process"
+msgstr "ដំណើរការ"
+
+msgid "Add Process"
+msgstr "បន្ថែមដំណើរការ"
+
+msgid "Add Proces"
+msgstr "បន្ថែមដំណើរការ"
+
+msgid "SubSub Process"
+msgstr "អនុអនុដំណើរការ"
+
+msgid "Sub Process"
+msgstr "អនុដំណើរការ"
+
+msgid "List of Process"
+msgstr "បញ្ចីនៃដំណើរ"
+
+msgid "Add More Informations"
+msgstr "បន្ថែមព័ត៌មាន"
+
+msgid "Export File Excel"
+msgstr "ទាញយកបញ្ចីជាExcel"
+
+msgid "Main Process"
+msgstr "ដំណើរការចំបង"
+
+msgid "Edit Proces"
+msgstr "ប្តូរដំណើរការ"
+
+msgid "Date Create&Update"
+msgstr "ថ្ងៃបង្កើតឬផ្លាស់ប្តូរ"
+
+msgid "Other"
+msgstr "ផ្សេងទៀត"
+
+msgid "Languages"
+msgstr "ភាសា"
+
+msgid "Language"
+msgstr "ភាសា"
+
+msgid "languages"
+msgstr "ភាសា"
+
+msgid "Actions"
+msgstr "សកម្មភាព"
+
+msgid "actions"
+msgstr "សកម្មភាព"
+
+msgid "Add More Field"
+msgstr "បន្ថែម ប្រអប់"
+
+msgid "No"
+msgstr "ល.រ"
+
+msgid "Staffs"
+msgstr "បុគ្គលិក"
+
+msgid "staffs"
+msgstr "បុគ្គលិក"
+
+msgid "Staff"
+msgstr "បុគ្គលិក"
+
+msgid "staff"
+msgstr "បុគ្គលិក"
+
+msgid "Subjects"
+msgstr "ប្រធានបទ"
+
+msgid "subjects"
+msgstr "ប្រធានបទ"
+
+msgid "subject"
+msgstr "ប្រធានបទ"
+
+msgid "Subject"
+msgstr "ប្រធានបទ"
+
+msgid "Tools"
+msgstr "ឧបករណ៏ប្រើប្រាស់"
+
+msgid "Tool"
+msgid "tool"
+msgid "tools"
+msgstr "ឧបករណ៏ប្រើប្រាស់"
+
+msgid "English"
+msgstr "អង់គ្លេស"
+
+msgid "Khmer"
+msgstr "ខ្មែរ"
+
+msgid "Chinese"
+msgstr "ចិន"
+
+msgid "View"
+msgstr "មើល"
+
+msgid "Edit"
+msgstr "កែរតម្រូវ"
+
+msgid "Delete"
+msgstr "លុប"
+
+msgid "Id"
+msgstr "កូដសំគាល់"
+
+msgid "previous"
+msgstr "មុន"
+
+msgid "next"
+msgstr "បន្ទាប់"
+
+msgid "first"
+msgstr "ទំព័រដើមបង្អស់"
+
+msgid "Page"
+msgstr "ទំព័រ"
+
+msgid "showing"
+msgstr "បង្ហាញ"
+
+msgid "record(s) out of"
+msgstr "នៃចំនួន"
+
+msgid "total"
+msgstr "សរុប"
+
+msgid "of "
+msgstr "នៃ"
+
+msgid "last"
+msgstr "ទំព័រចុងក្រោយបង្អស់"
+
+msgid "1"
+msgstr "១"
+
+msgid "2"
+msgstr "២"
+
+msgid "3"
+msgstr "៣"
+
+msgid "4"
+msgstr "៤"
+
+msgid "5"
+msgstr "៥"
+
+msgid "6"
+msgstr "៦"
+
+msgid "7"
+msgstr "៧"
+
+msgid "8"
+msgstr "៨"
+
+msgid "9"
+msgstr "៩"
+
+msgid "Remove"
+msgstr "លុបចេញ"
+
+msgid "Edit Information"
+msgstr "ប្តូរព័ត៌មាន"
+
+msgid "Submit"
+msgstr "បញ្ជូន"
+
+msgid "Change Language"
+msgstr "ប្តូរភាសា"
+
+msgid "Input Tool"
+msgstr "សូមវាយឧបករណ៍ដែលត្រូវប្រើប្រាស់"
+
+msgid "Input Subject"
+msgstr "សូមវាយប្រធានបទ"
+
+msgid "Choose Staff"
+msgstr "ជ្រើសរើសបុគ្គលិក"
+
+msgid "Descriptions"
+msgstr "សេចក្តីអធិប្បាយ"
+
+msgid "Input Text English"
+msgstr "សូមវាយបញ្ចូលអក្សរអង់គ្លេស"
+
+msgid "Input Text Khmer"
+msgstr "សូមវាយបញ្ចូលអក្សរខ្មែរ"
+
+msgid "Input Text Chinese"
+msgstr "សូមវាយបញ្ចូលអក្សរចិន"
